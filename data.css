@@ -1,0 +1,204 @@
+body {
+  background-image: url("media/background/david-marcu-f2SeKHyjqk4-unsplash.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  overflow-y: scroll;
+}
+
+
+
+.topnav {
+  background-color: none;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: right;
+  text-align: center;
+  padding: 10px 30px;
+  text-decoration: none;
+  font-size: 22px;
+	font-family:'Baloo 2', cursive;
+	color: white;
+}
+
+.topnav a:hover {
+	border-radius: 5px;
+	color: white;
+  background-color: #A5A58D;
+}
+
+.topnav a.active {
+  color: white;
+}
+
+
+h1{
+  font-family:'Baloo 2', cursive;
+  color: white;
+  font-size: 120px;
+  text-align: center;
+}
+
+.statement{
+  background-color: #c2c2b2;
+}
+
+.sec1{
+  display: flex;
+  flex-direction: row;
+}
+
+.contributors{
+  background-color: #A5A58D;
+}
+
+h2{
+  font-family:'Baloo 2', cursive;
+  color: #c2c2b2;
+  font-size:50px;
+  text-align: center;
+}
+
+p{
+  font-family:'Baloo 2', cursive;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+
+.temp{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.lable{
+  font-family:'Baloo 2', cursive;
+  color: #CB997E;
+  font-size:60px;
+  background-color: #c2c2b2;
+  padding: 50px;
+  margin-bottom: -5px;
+}
+
+.circle{
+  height: 600px;
+  width: 600px;
+  border-radius: 50%;
+  background-color: #CB997E;
+  margin-top:150px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+.ctext{
+  font-size: 19px;
+  max-width: 80%;
+  margin-top: 120px;
+}
+
+.carbon{
+  display: flex;
+  flex-direction: row;
+}
+
+.textbox{
+  background-color: #A5A58D;
+}
+
+.ttext1{
+  margin-top:190px;
+   font-size: 25px;
+}
+
+.ttext2{
+  margin-top:50px;
+   font-size: 25px;
+}
+
+.co{
+  padding-left: 10px;
+}
+
+.sec2{
+  background-color: #A5A58D;
+  padding: 20px;
+}
+
+h3{
+  font-family:'Baloo 2', cursive;
+  color: #CB997E;
+  font-size:60px;
+  text-align: center;
+  background-color: #c2c2b2;
+  padding: 50px;
+  margin-bottom: -5px;
+}
+
+.facts{
+  display: flex;
+  flex-direction: row;
+}
+
+.graph1{
+  max-width: 50%;
+}
+
+.graph2{
+  max-width: 50%;
+}
+
+.sec3{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color:#A5A58D;
+}
+
+.col{
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 20px;
+}
+
+.info1{
+  margin-left: 50px;
+  text-align: left;
+  max-width: 75%;
+}
+
+.info2{
+  margin-right: 50px;
+  text-align: left;
+  max-width: 75%;
+}
+
+.links{
+  font-family:'Baloo 2', cursive;
+  color: #c2c2b2;
+  font-size:20px;
+}
+
+
+footer {
+  background-color: #CB997E;
+  text-align:center;
+  overflow: hidden;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer-text{
+  font-family:'Baloo 2', cursive;
+  color: white;
+}
+

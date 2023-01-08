@@ -1,0 +1,295 @@
+body {
+  background-image: url("media/background/qingbao-meng-01_igFr7hd4-unsplash\ \(1\).jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  overflow-y: scroll;
+}
+
+.topnav {
+  background-color: none;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: right;
+  text-align: center;
+  padding: 10px 30px;
+  text-decoration: none;
+  font-size: 22px;
+	font-family:'Baloo 2', cursive;
+	color: white;
+}
+  
+.topnav a:hover {
+	border-radius: 5px;
+	color: white;
+  background-color: #A5A58D;
+}
+
+.topnav a.active {
+  color: white;
+}
+
+
+.resources{
+  font-family:'Baloo 2', cursive;
+	padding-left: 150px;
+	padding-bottom: 50px;
+	color: white;
+	font-size: 85px;
+}
+
+
+.takeaction{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 180px;
+  margin-right: 150px;
+  margin-bottom: 90px;
+}
+
+.learn{
+  text-align: center;
+  background-color: #CB997E;
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+}
+
+.learnbox{
+  font-family:'Baloo 2', cursive;
+  color: #c2c2b2;
+  margin-top: 95px;
+  font-size: 70px;
+}
+
+.action{
+  text-align: center;
+  background-color: #CB997E;
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+}
+
+.actionbox{
+  font-family:'Baloo 2', cursive;
+  color: #c2c2b2;
+  margin-top: 40px;
+  font-size: 70px;
+}
+
+.donate{
+  text-align: center;
+  background-color: #CB997E;
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+}
+
+.donatebox{
+  font-family:'Baloo 2', cursive;
+  color: #c2c2b2;
+  margin-top: 95px;
+  font-size: 70px;
+}
+
+
+.banner{
+  height: 300px;
+  width: 100%;
+  background-color: #c2c2b2;
+}
+
+
+.rec1{
+  background-color: #A5A58D;
+  padding: 50px;
+  margin-top: 120px;
+  padding-right: 25%;
+}
+
+.images{
+  margin-top: 120px;
+}
+
+.sec{
+  display: flex;
+  flex-direction: row;
+  
+}
+
+.rec2{
+  background-color: #A5A58D;
+  padding: 120px;
+  padding-bottom: -100px;
+  margin-top: 120px;
+  margin-right: 20px;
+}
+
+.sec3{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.rec3{
+  background-color: #A5A58D;
+  padding: 10px;
+}
+
+.text2{
+  font-family:'Baloo 2', cursive;
+  color: white;
+  font-size:20px;
+  margin: -5px;
+}
+
+.text3{
+  font-family:'Baloo 2', cursive;
+  color: white;
+  font-size:28px;
+  margin: -5px;
+  margin-left: 7%;
+}
+
+.links3{
+   font-family:'Baloo 2', cursive;
+  color: #c2c2b2;
+  font-size:20px;
+  margin-left: 40px;
+}
+
+.circle{
+  height: 500px;
+  width: 500px;
+  border-radius: 50%;
+  background-color: #CB997E;
+  margin-right: 300px;
+  margin-top: 120px; 
+}
+
+.message{
+  margin-top: 80px;
+  margin-left: 42px;
+}
+
+.tunein{
+  font-family:'Baloo 2', cursive;
+  color: #c2c2b2;
+  font-size:120px;
+}
+
+.mess2{
+  font-family:'Baloo 2', cursive;
+  color:white;
+  font-size: 30px;
+  margin-top: -10px;
+}
+
+.sec4{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.rectangle{
+  background-color: #CB997E;
+  height: 600px;
+  width: 600px;
+  border-radius: 10%;
+  margin-top: 300px;
+}
+
+h12{
+  font-family:'Baloo 2', cursive;
+  color: white;
+  font-size:120px;
+}
+
+.rec4{
+  background-color: #A5A58D;
+  padding: 50px;
+}
+
+.text4{
+  font-family:'Baloo 2', cursive;
+  color: white;
+  font-size:20px;
+  margin-bottom: -5px;
+}
+
+.sec5{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+
+.rec5{
+  background-color: #A5A58D;
+  padding: 50px;
+  padding-right: 300px;
+}
+
+.rec6{
+  background-color: #A5A58D;
+  padding: 50px;
+  margin-top: 120px;
+  diplay: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.sec2{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.climate{
+  font-family:'Baloo 2', cursive;
+  color: #debdab;
+  font-size: 50px;  
+}
+
+.header{
+  font-family:'Baloo 2', cursive;
+  color: #debdab;
+  font-size:50px;
+  margin: 50px;
+}
+
+.text{
+  font-family:'Baloo 2', cursive;
+  color: white;
+  font-size:20px;
+}
+
+.links{
+  font-family:'Baloo 2', cursive;
+  color: #c2c2b2;
+  font-size:20px;
+}
+
+
+footer {
+  background-color: #CB997E;
+  text-align:center;
+  overflow: hidden;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer-text{
+  font-family:'Baloo 2', cursive;
+  color: white;
+}
